@@ -9,3 +9,4 @@ edition = "2021"
 anyhow = "1"
 nokhwa = { version = "0.10.3", features=["input-native", "output-threaded"]}
 slint = "*"
+image = "*"
